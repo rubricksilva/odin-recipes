@@ -1,8 +1,14 @@
+body {
+
+    background-image: url(backgroundmain.png);
+
+}
+
 #divider {
 
     margin: auto;
     width: 300px;
-    height: 100px;
+    height: 25px;
     display: block;
 
 }
@@ -11,6 +17,7 @@
 
     text-align: center;
     margin-bottom: 0%;
+    color: rgb(63, 138, 182);
 }
 
 .botaomain {
@@ -22,5 +29,6 @@
     border-radius: 4px;
     text-decoration: none;
     color: white;
+    display: inline-block;
 
 }
